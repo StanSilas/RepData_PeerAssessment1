@@ -306,7 +306,7 @@ ggplot(dtIntervals, aes(x = interval, y = meanSteps)) + geom_line()
 > 
 > 4. Make a histogram of the total number of steps taken each day and Calculate and report the **mean** and **median** total number of steps taken per day. Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?
 
-Calculate the total number of missing values.
+##Calculate the total number of missing values.
 
 
 ```r
