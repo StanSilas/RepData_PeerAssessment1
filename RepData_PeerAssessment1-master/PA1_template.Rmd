@@ -1,5 +1,5 @@
 Peer Assessment 1
-=================
+
 
 Peer assessment 1 assignment for Coursera course [Reproducible Research](Reproducible Research).
 
